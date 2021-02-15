@@ -1,5 +1,5 @@
 # meteor-package-test
-This meteor project reproduces issue # in Meteor.
+This meteor project reproduces issue [#11320](https://github.com/meteor/meteor/issues/11320) in Meteor.
 
 To Run this package:
 1. Setup WSL2 environment.

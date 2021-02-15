@@ -9,7 +9,8 @@ To Run this package:
 
 ```
 git clone https://github.com/brucejo75/meteor-package-test
-cd meteor-package-tst
+cd meteor-package-test
+meteor npm install
 npm start
 ```
 
